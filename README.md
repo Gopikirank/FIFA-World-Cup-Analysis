@@ -1,5 +1,7 @@
 # FIFA-World-Cup-Analysis
 About The Motive of this project is to analyze FIFA World Cup Data,we have the data from 1930 to 2014. The data we have is separated by Matches ,Players and Cup Holders since 1930 to 2014. Lot of Analysis has been done with nice Visualizations to understand and to get insights from data.
+
+
 Abstract:
 The FIFA World Cup is one of the world's most important sporting events, with a rich history spanning over 90 years. This historical data analysis examines many aspects of the World Cup tournament, including team results, player statistics, and general trends and patterns over the years. Analyze data from past tournaments to identify the top performing teams, top players, and factors that contributed to tournament wins. It also looks at the impact of various factors such as the host country, playing conditions and the tactics used by the teams. Through this analysis, we aim to provide fans, analysts and strategists with valuable information about the FIFA World Cup and its evolution over the years. Keywords—FIFA world cup, Team results, Statistics, Trends, Patterns, Top players, Host.
 Proposed Work:
@@ -8,6 +10,8 @@ Data cleaning and preparation: Cleaned and transformed the data to ensure it was
 Data modeling: Designed a data model that organized the data in a way that made it easy to analyze and visualize.
 Data visualization: Used Power BI to create charts, tables, and other visualizations that presented the data in a way that was easy to understand.
 Analysis and insights: Analyzed the visualizations to identify trends and insights that informed business decisions.
+
+
 Insights:
 Brazil has qualified for the FIFA World Cup 82 times.
 Italy has qualified for the tournament 57 times.
@@ -26,5 +30,7 @@ Host nation advantage: It is possible that the data shows attendance is higher i
 Brazil's dominance: Brazil has won the most World Cups (5), according to the data. They have also played the most matches (64) and scored the most goals (171).
 European contenders: Germany and France are not far behind Brazil in terms of total matches played and goals scored. They have also both won the World Cup multiple times (Germany - 4, France - 2).
 Tournament consistency: Brazil and France are the only two teams to appear in both the "Winner" and "Runners-up" columns multiple times. This suggests they have been consistent contenders throughout the World Cup tournaments.
+
+
 Conclusion:
 This Power BI dashboard provides a comprehensive analysis of FIFA World Cup results, enabling users to gain valuable insights into historical match data. By leveraging data mining technique and effective visualization, the dashboard facilitates a deeper understanding of tournament dynamics and trends over time.
